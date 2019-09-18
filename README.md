@@ -1,1 +1,1 @@
-https://github.com/waterpolymer/todo-linkedlist
+This repository is to store Kendrick's resume in an application to the cuny2x program.
